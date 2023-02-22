@@ -1,9 +1,7 @@
-# doc
-
+---
 nav:
-title: 指南
-order: -1
-
+  title: 指南
+  order: -1
 ---
 
 # 介绍
@@ -19,6 +17,12 @@ order: -1
 - 在公司的内部实践中，频繁大量使用到 动态表单和表单与表格交互的场景。因此，封装一套符合公司要求的物料库必不可少。
 - EasyComponents 通过抽离非业务的通用需求，提供了更加简单的 api 去实现公司频繁使用的场景，提升开发效率。
 
+<!-- ## 怎么安装 EasyComponents? -->
+
+<!-- ```js
+   npm i easy-components-react
+``` -->
+
 ## 问题反馈
 
 添加作者微信：
@@ -26,5 +30,3 @@ order: -1
 <div>
   <img data-type="dingtalk" src="/images/weixin.jpg" width="300" />
 </div>
-
-## Development
